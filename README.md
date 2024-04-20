@@ -2,7 +2,7 @@
 
 I'm a MSc Bioinformatics & Systems Biology student with a Bachelor's in Computer Science (Bioinformatics track).
 
-- :dna: I'm currently doing my internship at Leiden University Medical Center (LUMC) 🇳🇱, where I focus on developing a pipeline in Nextflow to analyze RNA-seq data.
+- :dna: Recently finished my internship, where I focused on developing a pipeline in Nextflow to analyze a variant of RNA-seq data.
 
 - :technologist: I feel most comfortable programming in Python and R, and am presently gaining experience in Nextflow and Linux bash. I've also worked with C++, C# (in Unity) and SQL in the past.
 
