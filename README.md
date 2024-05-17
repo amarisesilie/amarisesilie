@@ -6,7 +6,7 @@ I'm a MSc Bioinformatics & Systems Biology student with a Bachelor's in Computer
 
 - :technologist: I feel most comfortable programming in Python and R, and am presently gaining experience in Nextflow and Linux bash. I've also worked with C++, C# (in Unity) and SQL in the past.
 
-- :bulb: My interests lie in Software Development, Data Science and AI, in addition to  Molecular Biology.
+- :bulb: My interests lie in Software Development, Data Science, Machine Learning and AI, in addition to  Molecular Biology.
   
 - 🤓 I have a passion for programming, reading, and creative and academic writing.
   
