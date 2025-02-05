@@ -1,6 +1,6 @@
 ### Hi, I'm Amarise 😄
 
-I'm a Data Scientist/Bioinformatician with a MSc Bioinformatics & Systems Biology and a Bachelor's in Computer Science (Bioinformatics track).
+I'm a Data Scientist/Bioinformatician with an MSc Bioinformatics & Systems Biology and a Bachelor's in Computer Science (Bioinformatics track).
 
 - :dna: During my internship at LUMC, I focused on developing a pipeline in Nextflow to analyze a variant of RNA-seq data.
 
