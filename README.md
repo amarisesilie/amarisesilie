@@ -1,8 +1,8 @@
 ### Hi, I'm Amarise 😄
 
-I'm a MSc Bioinformatics & Systems Biology student with a Bachelor's in Computer Science (Bioinformatics track).
+I'm a Data scientist/Bioinformatician with a MSc Bioinformatics & Systems Biology and a Bachelor's in Computer Science (Bioinformatics track).
 
-- :dna: Recently finished my internship, where I focused on developing a pipeline in Nextflow to analyze a variant of RNA-seq data.
+- :dna: During my internship at LUMC, I focused on developing a pipeline in Nextflow to analyze a variant of RNA-seq data.
 
 - :technologist: I feel most comfortable programming in Python and R. I've also worked with Linux Bash, Nextflow, C++, C# (in Unity) and SQL in the past.
 
@@ -10,7 +10,7 @@ I'm a MSc Bioinformatics & Systems Biology student with a Bachelor's in Computer
   
 - 🤓 I have a passion for programming, reading, and creative and academic writing.
   
-- :heart_on_fire: I love problem solving, critical thinking, organizing and am always focused on improving myself.
+- :heart_on_fire: I love problem solving, critical thinking, organizing and am always focused on improving myself. Most of all, I just want to gain experience and learn.
 
 
 
