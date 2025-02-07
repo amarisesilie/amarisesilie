@@ -2,7 +2,7 @@
 
 I'm a Data Scientist/Bioinformatician with an MSc Bioinformatics & Systems Biology and a Bachelor's in Computer Science (Bioinformatics track).
 
-- :dna: During my internship at LUMC, I focused on developing a pipeline in Nextflow to analyze a variant of RNA-seq data.
+- :dna: During my latest internship, I focused on developing a pipeline in Nextflow to analyze a variant of RNA-seq data.
 
 - :technologist: I feel most comfortable programming in Python and R. I've also worked with Linux Bash, Nextflow, C++, C# (in Unity) and SQL in the past.
 
